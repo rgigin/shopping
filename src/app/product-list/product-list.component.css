@@ -1,0 +1,134 @@
+.content {
+    width: 88%;
+    float: right;
+}
+
+.searchFilter {
+
+    width: 25%;
+}
+/*.banner {
+
+        margin-left: 258px;
+ 
+    padding: 5%;
+    margin-top: -330%;
+}*/
+
+.banner {
+
+padding-top: 0%;
+    padding-left: 0%;
+    width: 100%;
+    max-height: 266px;
+    margin-bottom: 3%;
+}
+
+.container {
+
+    margin:0px;
+}
+
+/******DataView Container **********/
+.ui-dataview {
+    position: relative;
+}
+
+.ui-dataview .ui-paginator {
+	text-align: center;
+}
+
+.ui-dataview-column {
+	padding: .25em;
+}
+
+.ui-dataview-content-empty {
+    padding: .25em .625em;
+}
+
+.ui-dataview .ui-dataview-header,
+.ui-dataview .ui-dataview-footer {
+	padding: .5em .75em;
+}
+
+.ui-dataview .ui-dataview-header {
+    border-bottom: 0 none;
+}
+
+.ui-dataview .ui-dataview-footer {
+    border-top: 0 none;
+}
+
+.ui-dataview .ui-paginator-top {
+    border-bottom: 0 none;
+}
+
+.ui-dataview .ui-paginator-bottom {
+    border-top: 0 none;
+}
+
+.ui-dataview.ui-dataview-list > .ui-dataview-content > div.ui-g > div {
+    width: 100%;
+}
+
+/* Loader */
+.ui-dataview-loading {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
+    opacity: 0.1;
+    z-index: 1;
+}
+
+.ui-dataview-loading-content {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    z-index: 2;
+    margin-top: -1em;
+    margin-left: -1em;
+}
+
+.ui-dataview-loading-icon {
+    font-size: 2em;
+}
+
+   .ui-button { 
+            margin-top: 3em;
+        }  
+
+        .filter-container {
+            text-align: center;
+        }
+
+        @media (max-width: 40em) {
+            .products-details, .search-icon {
+                text-align: center;
+                margin-top: 0;
+            }
+
+            .filter-container {
+                text-align: left;
+            }
+        }
+
+        .list-group-item {
+
+            border :none !important;
+        }
+        .checked {
+    color: orange;
+}
+.rating {
+    padding-left: 10%;
+}
+
+.rating_text {
+
+    padding: 5%;
+    font-size: 12px;
+    /* color: burlywood; */
+    line-height: 1.5!important;
+
+}

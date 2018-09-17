@@ -1,0 +1,43 @@
+
+{
+	"data": [{
+		"name": "Rockstar",
+		"price": "345345",
+		"img":"kurta_1.jpg",
+		"brand":"A star",
+		"color":"green"
+	}
+    ,{
+		"name": "GFiny",
+		"price": "43414",
+		"img":"kurta_2.jpg",
+		"brand":"A star",
+		"color":"blue"
+	},{
+		"name": "Rosew",
+		"price": "65666",
+		"img":"kurta_3.jpg",
+		"brand":"A star",
+		"color":"red"
+	},
+	{
+		"name": "Rosew",
+		"price": "65666",
+		"img":"kurta_4.jpg",
+		"brand":"A star",
+		"color":"red"
+	}
+    
+    
+    
+    
+    
+    
+    ]
+}
+
+
+
+
+
+

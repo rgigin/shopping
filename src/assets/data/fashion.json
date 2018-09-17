@@ -1,0 +1,80 @@
+
+{
+	"data": [{
+		"name": "Rockstar",
+		"price": "345345",
+		"img":"assets/images/fashion/tops_1.jpg",
+		"brand":"A star",
+		"color":"green"
+	}
+    ,{
+		"name": "GFiny",
+		"price": "43414",
+		"img":"assets/images/fashion/tops_2.jpg",
+		"brand":"A star",
+		"color":"blue"
+	},{
+		"name": "Rosew",
+		"price": "65666",
+		"img":"assets/images/fashion/tops_3.jpg",
+		"brand":"A star",
+		"color":"red"
+	},
+	{
+		"name": "Rosew",
+		"price": "65666",
+		"img":"assets/images/fashion/tops_4.jpg",
+		"brand":"A star",
+		"color":"red"
+	}
+    
+    ,{
+		"name": "Rosew",
+		"price": "65666",
+		"img":"assets/images/fashion/tops_5.jpg",
+		"brand":"A star",
+		"color":"red"
+	}
+    ,{
+		"name": "Rosew",
+		"price": "65666",
+		"img":"assets/images/fashion/tops_6.jpg",
+		"brand":"A star",
+		"color":"red"
+	}
+    ,{
+		"name": "Rosew",
+		"price": "65666",
+		"img":"assets/images/fashion/fashion_7.jpg",
+		"brand":"A star",
+		"color":"red"
+	},{
+		"name": "Rosew",
+		"price": "65666",
+		"img":"assets/images/fashion/fashion_8.jpg",
+		"brand":"A star",
+		"color":"red"
+	},{
+		"name": "Rosew",
+		"price": "65666",
+		"img":"assets/images/fashion/fashion_9.jpg",
+		"brand":"A star",
+		"color":"red"
+	},{
+		"name": "Rosew",
+		"price": "65666",
+		"img":"assets/images/fashion/fashion_10.jpg",
+		"brand":"A star",
+		"color":"red"
+	}
+    
+    
+    
+    ]
+}
+
+
+
+
+
+
